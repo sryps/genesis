@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:13353ba006d82e37948469230892f73aa908c13a3b6c0d82cf415abf9d6c23ed
-size 2798940
+{"genesis_time":"2024-12-19T22:16:20.299621729Z","chain_id":"penumbra-1","initial_height":"2611800","consensus_params":{"block":{"max_bytes":"1048576","max_gas":"-1","time_iota_ms":"500"},"evidence":{"max_age_num_blocks":"130000","max_age_duration":"650000000000000","max_bytes":"30720"},"validator":{"pub_key_types":["ed25519"]},"abci":{}},"validators":[],"app_hash":"EFFC0B2CF2BE928A610BC328E97FB8EA6743BC1A968ED0A612332A59A0E7F2BC","app_state":{"genesisCheckpoint":"7/wLLPK+kophC8Mo6X+46mdDvBqWjtCmEjMqWaDn8rw="}}
